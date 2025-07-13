@@ -1,2 +1,14 @@
+# Ignore Python virtual environments
 .venv/
-.env/
+
+# Ignore environment variable files
+.env
+
+# Ignore Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
