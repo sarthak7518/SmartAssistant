@@ -99,15 +99,3 @@ To deploy:
 3. Click **"New app"**
 4. Select your repo and deploy!
 
----
-
-## 🤝 Credits
-
-Created by Sarthak Srivastava 
-Powered by Google Gemini and open-source AI tools.
-
----
-
-## 🧠 License
-
-This project is open-sourced for educational and demo purposes.
